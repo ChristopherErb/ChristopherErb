@@ -9,65 +9,7 @@
 ### Languages/Tools:
 
 
-
-
-
-### Languages:
-
-<table>
-  <tr>
-    <th>Language</th>
-    <th>Icon</th>
-  </tr>
-  <tr>
-    <td>JavaScript</td>
-    <td><img src="https://skillicons.dev/icons?name=javascript" alt="JavaScript"></td>
-  </tr>
-  <tr>
-    <td>HTML</td>
-    <td><img src="https://skillicons.dev/icons?name=html5" alt="HTML"></td>
-  </tr>
-  <tr>
-    <td>C#</td>
-    <td><img src="https://skillicons.dev/icons?name=csharp" alt="C#"></td>
-  </tr>
-  <!-- Add more rows for additional languages -->
-</table>
-
-### Tools:
-
-<table>
-  <tr>
-    <th>Tool</th>
-    <th>Icon</th>
-  </tr>
-  <tr>
-    <td>Babel</td>
-    <td><img src="https://skillicons.dev/icons?name=babel" alt="Babel"></td>
-  </tr>
-  <tr>
-    <td>Bootstrap</td>
-    <td><img src="https://skillicons.dev/icons?name=bootstrap" alt="Bootstrap"></td>
-  </tr>
-  <tr>
-    <td>CodePen</td>
-    <td><img src="https://skillicons.dev/icons?name=codepen" alt="CodePen"></td>
-  </tr>
-  <tr>
-    <td>CSS</td>
-    <td><img src="https://skillicons.dev/icons?name=css3" alt="CSS"></td>
-  </tr>
-  <tr>
-    <td>Discord</td>
-    <td><img src="https://skillicons.dev/icons?name=discord" alt="Discord"></td>
-  </tr>
-  <!-- Add more rows for additional tools -->
-</table>
-
-
-
-
-
+[![Languages/Tools](https://skillicons.dev/icons?i=autocad,babel,bootstrap,codepen,cs,css,discord,django,dotnet,express,figma,gamemakerstudio,github,html,java,js,linkedin,mongodb,mysql,nodejs,react,threejs,vscode)](https://skillicons.dev)
 
 #### Languages:
 
