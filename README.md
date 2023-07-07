@@ -8,6 +8,69 @@
 
 ### Languages/Tools:
 
+
+
+
+
+
+### Languages/Tools:
+
+<table>
+  <tr>
+    <th>Languages</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?name=javascript" alt="JavaScript">
+      JavaScript
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?name=babel" alt="Babel">
+      Babel
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?name=html5" alt="HTML">
+      HTML
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?name=bootstrap" alt="Bootstrap">
+      Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?name=csharp" alt="C#">
+      C#
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?name=codepen" alt="CodePen">
+      CodePen
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <img src="https://skillicons.dev/icons?name=css3" alt="CSS">
+      CSS
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <img src="https://skillicons.dev/icons?name=discord" alt="Discord">
+      Discord
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
 #### Languages:
 
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
