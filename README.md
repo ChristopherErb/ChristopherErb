@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://i.imgur.com/5AdyulV.png"/>
+</div>
+
 <table>
 <tr>
 <td>
@@ -31,3 +35,6 @@ Tools
 
 Portfolio: TBD <br/> Email [ChristopherErb01@gmail.com](mailto:ChristopherErb01@gmail.com)\
 [LinkedIn](https://www.linkedin.com/in/christophererb1/) 
+
+
+Special Thank you to [Melanie Kline](mailto:misbgk.24601@live.com) for the banner!
