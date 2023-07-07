@@ -15,5 +15,5 @@
 
 ## Portfolio/Contact
 
-Portfolio: TBD) | Email [ChristopherErb01@gmail.com](mailto:ChristopherErb01@gmail.com)\
+Portfolio: TBD | Email [ChristopherErb01@gmail.com](mailto:ChristopherErb01@gmail.com)\
 [LinkedIn](https://www.linkedin.com/in/christophererb1/) 
