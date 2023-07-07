@@ -10,7 +10,7 @@
 
 ### Languages/Tools/Libraries:
 
-[![Languages/Tools](https://skillicons.dev/icons?i=autocad,babel,bootstrap,codepen,cs,css,discord,django,dotnet,eclispse,express,figma,gamemakerstudio,github,html,java,js,linkedin,mongodb,mysql,nodejs,react,threejs,vscode)](https://skillicons.dev)
+[![Languages/Tools](https://skillicons.dev/icons?i=autocad,babel,bootstrap,codepen,cs,css,discord,django,dotnet,express,figma,gamemakerstudio,github,html,java,js,linkedin,mongodb,mysql,nodejs,react,threejs,vscode)](https://skillicons.dev)
 
 
 ## Portfolio/Contact
