@@ -13,7 +13,7 @@
 
 #### Languages:
 
-- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)(https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript) (https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 - [HTML](https://en.wikipedia.org/wiki/HTML)
 - [C#](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29)
 
