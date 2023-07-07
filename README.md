@@ -9,11 +9,11 @@
 ### Languages/Tools:
 
 
-[![Languages/Tools](https://skillicons.dev/icons?i=autocad,babel,bootstrap,codepen,cs,css,discord,django,dotnet,express,figma,gamemakerstudio,github,html,java,js,linkedin,mongodb,mysql,nodejs,react,threejs,vscode)](https://skillicons.dev)
+[![Languages/Tools](https://skillicons.dev/icons?i=cs,css,dotnet,html,java,js,mysql,nodejs,react,threejs)](https://skillicons.dev)
 
 #### Languages:
 
-- [JavaScript](https://en.wikipedia.org/wiki/JavaScript) (https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript) 
 - [HTML](https://en.wikipedia.org/wiki/HTML)
 - [C#](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29)
 
