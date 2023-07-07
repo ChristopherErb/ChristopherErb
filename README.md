@@ -12,58 +12,56 @@
 
 
 
-
-### Languages/Tools:
+### Languages:
 
 <table>
   <tr>
-    <th>Languages</th>
-    <th>Tools</th>
+    <th>Language</th>
+    <th>Icon</th>
   </tr>
   <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?name=javascript" alt="JavaScript">
-      JavaScript
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?name=babel" alt="Babel">
-      Babel
-    </td>
+    <td>JavaScript</td>
+    <td><img src="https://skillicons.dev/icons?name=javascript" alt="JavaScript"></td>
   </tr>
   <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?name=html5" alt="HTML">
-      HTML
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?name=bootstrap" alt="Bootstrap">
-      Bootstrap
-    </td>
+    <td>HTML</td>
+    <td><img src="https://skillicons.dev/icons?name=html5" alt="HTML"></td>
   </tr>
   <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?name=csharp" alt="C#">
-      C#
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?name=codepen" alt="CodePen">
-      CodePen
-    </td>
+    <td>C#</td>
+    <td><img src="https://skillicons.dev/icons?name=csharp" alt="C#"></td>
+  </tr>
+  <!-- Add more rows for additional languages -->
+</table>
+
+### Tools:
+
+<table>
+  <tr>
+    <th>Tool</th>
+    <th>Icon</th>
   </tr>
   <tr>
-    <td></td>
-    <td>
-      <img src="https://skillicons.dev/icons?name=css3" alt="CSS">
-      CSS
-    </td>
+    <td>Babel</td>
+    <td><img src="https://skillicons.dev/icons?name=babel" alt="Babel"></td>
   </tr>
   <tr>
-    <td></td>
-    <td>
-      <img src="https://skillicons.dev/icons?name=discord" alt="Discord">
-      Discord
-    </td>
+    <td>Bootstrap</td>
+    <td><img src="https://skillicons.dev/icons?name=bootstrap" alt="Bootstrap"></td>
   </tr>
+  <tr>
+    <td>CodePen</td>
+    <td><img src="https://skillicons.dev/icons?name=codepen" alt="CodePen"></td>
+  </tr>
+  <tr>
+    <td>CSS</td>
+    <td><img src="https://skillicons.dev/icons?name=css3" alt="CSS"></td>
+  </tr>
+  <tr>
+    <td>Discord</td>
+    <td><img src="https://skillicons.dev/icons?name=discord" alt="Discord"></td>
+  </tr>
+  <!-- Add more rows for additional tools -->
 </table>
 
 
