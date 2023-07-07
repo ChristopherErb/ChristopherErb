@@ -6,11 +6,34 @@
 </tr>
 </table>
 
-## I have experience with:
+### Languages/Tools:
 
-### Languages/Tools/Libraries:
+#### Languages:
 
-[![Languages/Tools](https://skillicons.dev/icons?i=autocad,babel,bootstrap,codepen,cs,css,discord,django,dotnet,express,figma,gamemakerstudio,github,html,java,js,linkedin,mongodb,mysql,nodejs,react,threejs,vscode)](https://skillicons.dev)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [C#](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29)
+
+#### Tools:
+
+- [Babel](https://babeljs.io/)
+- [Bootstrap](https://getbootstrap.com/)
+- [CodePen](https://codepen.io/)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+- [Discord](https://discord.com/)
+- [Django](https://www.djangoproject.com/)
+- [Express](https://expressjs.com/)
+- [Figma](https://www.figma.com/)
+- [GameMaker Studio](https://www.yoyogames.com/gamemaker)
+- [GitHub](https://github.com/)
+- [Java](https://www.java.com/)
+- [LinkedIn](https://www.linkedin.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [MySQL](https://www.mysql.com/)
+- [Node.js](https://nodejs.org/)
+- [React](https://reactjs.org/)
+- [Three.js](https://threejs.org/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 
 ## Portfolio/Contact
